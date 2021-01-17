@@ -1,5 +1,5 @@
 # 1.
-Fix the None Type error buy when formatting the output string:
+Fix the None Type error bug when formatting the output string:
 text = banner + " " + i + "\r\n"
 
 # 2
