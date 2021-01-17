@@ -1,0 +1,26 @@
+# 1.
+Fix the None Type error buy when formatting the output string:
+text = banner + " " + i + "\r\n"
+
+# 2
+Implement multi-processing and lose the need for the bash script
+
+3 #
+Create a function to write to csv file
+
+# 4
+Create a function to iterate and scan hosts 1 - 255 rather than adding all IP:host to a list
+
+# 5
+Create command line arguments so the options can be set directly from the bash terminal
+
+# 6
+Make use of the http scanner function to scan for http servers
+
+# 7
+Create a function to clean a http banner into a clean format
+
+######################################################################################
+Long term
+######################################################################################
+Create a some nice looking charts using matplotlib to visually analyse software in use around the net. Create various insights.
