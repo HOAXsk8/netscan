@@ -5,19 +5,22 @@ text = banner + " " + i + "\r\n"
 # 2
 Implement multi-processing and lose the need for the bash script
 
-3 #
+# 3
+Create a function to avoid duplicate IP scans
+
+4 #
 Create a function to write to csv file
 
-# 4
+# 5
 Create a function to iterate and scan hosts 1 - 255 rather than adding all IP:host to a list
 
-# 5
+# 6
 Create command line arguments so the options can be set directly from the bash terminal
 
-# 6
+# 7
 Make use of the http scanner function to scan for http servers
 
-# 7
+# 8
 Create a function to clean a http banner into a clean format
 
 ######################################################################################
